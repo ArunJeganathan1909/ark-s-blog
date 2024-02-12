@@ -16,7 +16,11 @@ const CallToAction = () => {
           gradientDuoTone="purpleToBlue"
           className="rounded-tl-xl rounded-bl-none"
         >
-          <a href="" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://blog.logrocket.com/mern-stack-tutorial/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Mern Projects
           </a>
         </Button>

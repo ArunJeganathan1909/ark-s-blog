@@ -44,7 +44,7 @@ const UpdatePost = () => {
     } catch (error) {
       console.log(error.message);
     }
-  }, []);
+  }, [postId]);
 
   const handleUploadImage = async () => {
     try {
