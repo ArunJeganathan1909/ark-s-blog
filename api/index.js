@@ -5,7 +5,6 @@ const authRoutes = require("./routes/Auth.route");
 const postRoutes = require("./routes/Post.route");
 const commentRoutes = require("./routes/Comment.route");
 const cookieParser = require("cookie-parser");
-const past = require("path");
 const path = require("path");
 
 const app = express();
